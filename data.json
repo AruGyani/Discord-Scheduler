@@ -1,0 +1,71 @@
+{
+    "months" : {
+        "september" : {
+            "weeks": {
+                "26" : {
+                    "assignments" : {
+                        "1" : {
+                            "name" : "DHW #6",
+                            "type" : "WebAssign Homework",
+                            "date" : "September 30, 2020"
+                        },
+
+                        "2" : {
+                            "name" : "Quiz #4",
+                            "type" : "WebAssign Quiz",
+                            "date" : "October 2, 2020"
+                        }
+                    }
+                }
+            }
+        },
+    
+        "october" : {
+            "weeks" : {
+                "3" : {
+                    "assignments" : {
+                        "1" : {
+                            "name" : "THQ #6",
+                            "type" : "Take-Home Quiz",
+                            "date" : "October 6, 2020"
+                        },
+
+                        "2" : {
+                            "name" : "DHW 7",
+                            "type" : "WebAssign Homework",
+                            "date" : "October 7, 2020"
+                        },
+
+                        "3" : {
+                            "name" : "Quiz #5",
+                            "type" : "WebAssign Quiz",
+                            "date" : "October 9, 2020"
+                        }
+                    }
+                },
+
+                "10" : {
+                    "assignments" : {
+                        "1" : {
+                            "name" : "THQ #7",
+                            "type" : "Take-Home Quiz",
+                            "date" : "October 13, 2020"
+                        },
+
+                        "2" : {
+                            "name" : "DHW #8",
+                            "type" : "WebAssign Quiz",
+                            "date" : "October 14, 2020"
+                        }, 
+
+                        "3" : {
+                            "name" : "Quiz #6",
+                            "type" : "WebAssign Quiz",
+                            "date" : "October 16, 2020"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

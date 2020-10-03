@@ -1,0 +1,21 @@
+{
+  "name": "node-cron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "csv-parser": "^2.3.3",
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "neat-csv": "^5.2.0",
+    "node-cron": "^2.0.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
